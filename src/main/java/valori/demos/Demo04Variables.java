@@ -18,6 +18,10 @@ public class Demo04Variables {
     }
 
     public static void demoInts() {
+        int age = 14;
+        int ageNextYear = age + 1;
+        System.out.println("I am " + age + " year old");
+        System.out.println("Next year I am " + ageNextYear + " year old");
 
     }
 
