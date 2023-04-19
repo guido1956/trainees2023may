@@ -1,10 +1,10 @@
 package valori.demos;
-import valori.output_console.*;
+import static valori.output_console.OutputConsole.messageWithStars;
 
-public class Demo07MethodsWithReturnType {
+public class Demo07AMethodWithReturnType {
     public static void main(String[] args) {
         String text = makeFullName("Jan", "Jansen");
-        OutputConsole.messageWithStars(text);
+        messageWithStars(text);
     }
 
     public static String makeFullName(String firstName, String lastName) {
