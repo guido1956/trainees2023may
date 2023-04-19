@@ -8,6 +8,6 @@ public class Demo07MethodsWithReturnType {
     }
 
     public static String makeFullName(String firstName, String lastName) {
-        return firstName + " " + lastname;
+        return firstName + " " + lastName;
     }
 }
