@@ -19,3 +19,5 @@ public class Demo04MethodsWithParameters {
         System.out.println(token.repeat(amount) + text + token.repeat(5));
     }
 }
+
+
