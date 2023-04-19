@@ -26,6 +26,14 @@ public class Demo04Variables {
     }
 
     public static void demoDoubles() {
+        double temperature2018 = 13.07;
+        double temperature2019 = 15.23;
+        double temperature2020 = 16.13;
+        double averageTemperature =
+                (temperature2018 +
+                temperature2019 +
+                temperature2020) /3;
+        System.out.println("Average temp. 2018-2020 = " + averageTemperature + " degrees");
 
     }
 
