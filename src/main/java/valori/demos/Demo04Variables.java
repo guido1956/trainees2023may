@@ -34,7 +34,6 @@ public class Demo04Variables {
                 temperature2019 +
                 temperature2020) /3;
         System.out.println("Average temp. 2018-2020 = " + averageTemperature + " degrees");
-
     }
 
 
