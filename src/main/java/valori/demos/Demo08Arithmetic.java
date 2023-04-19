@@ -1,6 +1,6 @@
 package valori.demos;
 
-import static valori.IO_console.OutputConsole.messageWithStars;
+import static valori.io_console.OutputConsole.messageWithStars;
 
 public class Demo08Arithmetic {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package valori.IO_console;
+package valori.io_console;
 
 import java.util.Scanner;
 
