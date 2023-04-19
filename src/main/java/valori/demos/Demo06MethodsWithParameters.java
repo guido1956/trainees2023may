@@ -1,6 +1,6 @@
 package valori.demos;
 
-public class Demo05MethodsWithParameters {
+public class Demo06MethodsWithParameters {
     public static void main(String[] args) {
         showMessage("Hello World");
         showMessageWithStars("Hello World");
