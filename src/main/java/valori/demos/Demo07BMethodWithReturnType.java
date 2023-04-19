@@ -1,5 +1,5 @@
 package valori.demos;
-import static valori.output_console.OutputConsole.messageWithStars;
+import static IO_console.OutputConsole.messageWithStars;
 
 public class Demo07BMethodWithReturnType {
     public static void main(String[] args) {
