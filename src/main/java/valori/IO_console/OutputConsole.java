@@ -1,4 +1,4 @@
-package IO_console;
+package valori.IO_console;
 
 public class OutputConsole {
     public static void messageWithStars(String text) {
